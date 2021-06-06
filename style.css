@@ -33,6 +33,7 @@
     width: 100%;
     height: 21vw;
     margin-bottom: 30px; 
+    margin-top: 50px;
   }
   
   .left-container {
@@ -44,11 +45,11 @@
   .right-container {
     display: flex;
     align-items: center;
-    justify-content: space-around;
+    justify-content: center;
     height: 21vw;
-    background: #fff;
+    background: rgb(255, 255, 255);
     width: 50%;
-    height: 400px;
+    height: 525px;
     float: left;
   }
   
@@ -58,7 +59,14 @@
   }
   
   .right-content {
-    max-width: 70%;
+    max-width: 50%;
+  }
+  .right-content p1 {
+    font-size: 35px;
+  }
+  .right-content p2 {
+    font-size:15px;
+    text-align: center;
   }
   
   
