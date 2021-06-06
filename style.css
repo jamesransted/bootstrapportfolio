@@ -1,6 +1,22 @@
+.navbar {
+    margin-bottom: 20px;
+  }
+  .navtext {
+      max-width: 150px;
+  }
+.navtext a {
+    font-family: Lucida Grande !important;
+    font-size: 20px !important;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
 .carousel-item {
-    background: #777;
-    max-width: 140vh;
+    background: rgb(255, 255, 255);
+}
+.d-block {
+    max-height: 100vh;
+    width: 100%;
+    object-fit: contain;
 }
 
 
