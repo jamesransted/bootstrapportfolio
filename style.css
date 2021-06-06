@@ -131,10 +131,22 @@ img {
 
 @media screen and (max-width: 999px) {
   .paracuru-container {display: block; width: 100%; height: auto; text-align: center; margin: 0 auto 60px auto;}
-  .paracuru-left-container           {display: block; width: 100%; height: auto; float: none; text-align: center; margin: 15px auto 0px auto;}
-  .paracuru-right-container          {display: block; width: 100%; height: auto; float: none; text-align: center; margin: 15px auto 0px auto;}
-  .paracuru-left-content             {display: block; width: 100%; height: auto; float: none; text-align: center; margin: 15px auto 0px auto;}
-  .paracuru-right-content            {display: block; width: 100%; height: auto; float: none; text-align: center; margin: 15px auto 0px auto; max-width: 90%;}
+  .paracuru-left-container {display: block; width: 100%; height: auto; float: none; text-align: center; margin: 15px auto 0px auto;}
+  .paracuru-right-container {display: block; width: 100%; height: auto; float: none; text-align: center; margin: 15px auto 0px auto;}
+  .paracuru-left-content {display: block; width: 100%; height: auto; float: none; text-align: center; margin: 15px auto 0px auto;}
+  .paracuru-right-content {display: block; width: 100%; height: auto; float: none; text-align: center; margin: 15px auto 0px auto; max-width: 90%;}
+}
+.sunsets {
+  text-align: center;
+  padding: 20px 0 20px 0;
+}
+.sunsets p1 {
+  font-size: 35px;
+  text-align: center;
+}
+.sunsets p2 {
+  font-size:15px;
+  text-align: center;
 }
 
 
