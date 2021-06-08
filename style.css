@@ -1,6 +1,7 @@
 img {
   border-radius: 15px;
-}.navbar {
+}
+.navbar {
   margin-bottom: 20px;
 }
 .navtext {
@@ -16,13 +17,17 @@ img {
   background: rgb(255, 255, 255);
 }
 .d-block {
-  max-height: 100vh;
+  max-height: 150vh;
   width: 100%;
   object-fit: contain;
 }
 .blockquote {
   text-align: center;
   padding-top: 40px;
+}
+.blockquote-extra-line {
+  text-align: center;
+  padding-top: 5px;
 }
 .horseshoe {
   float: left;
@@ -34,7 +39,6 @@ img {
   margin-bottom: 30px; 
   margin-top: 50px;
 }
-
 .left-container {
   float: left;
   height: 21vw;
@@ -125,7 +129,7 @@ img {
 #ceara {
   font-size:15px;
   text-align: left;
-  margin-top: 50px;
+  margin-top: 20px;
 }
 
 
@@ -148,7 +152,9 @@ img {
   font-size:15px;
   text-align: center;
 }
-
+.author {
+  padding: 2px 0 25px 0;
+}
 
 
 
