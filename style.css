@@ -174,9 +174,6 @@ img {
 #bramshill-sunrise {
   padding-top: 15px;
 }
-#blue-horseshoe {
-  padding-top: 45px;
-}
 .img-padding {
   Padding: 15px 0 15px 0;
 }
@@ -190,6 +187,12 @@ img {
   text-align: center;
   font-size: 30px;
   padding-bottom: 0px;
+}
+#ride-dreams {
+  padding-bottom: 40px;
+}
+#perhaps {
+  padding-top: 30px;
 }
 
 
