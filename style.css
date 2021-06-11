@@ -1,5 +1,5 @@
 img {
-  border-radius: 15px;
+  padding-bottom: 20px;
 }
 .navbar {
   margin-bottom: 20px;
@@ -23,11 +23,18 @@ img {
 }
 .blockquote {
   text-align: center;
-  padding-top: 40px;
+  padding-top: 20px;
+  margin: 0;
 }
 .blockquote-extra-line {
   text-align: center;
   padding-top: 5px;
+  margin: 0px;
+}
+.blockquote-final-line {
+  text-align: center;
+  padding: 5px 0 35px 0;
+  margin: 0px;
 }
 .horseshoe {
   float: left;
@@ -67,12 +74,17 @@ img {
 .right-content {
   max-width: 50%;
 }
-.right-content p1 {
+.blockquote p1 {
   font-size: 35px;
 }
-.right-content p2 {
+.blockquote p2 {
+  font-size:20px;
+  text-align: center;
+}
+.blockquote p3 {
   font-size:15px;
   text-align: center;
+  margin-top: 20px;
 }
 
 
@@ -126,11 +138,6 @@ img {
   font-size: 15px;
   text-align: center;
 }
-#ceara {
-  font-size:15px;
-  text-align: left;
-  margin-top: 20px;
-}
 
 
 @media screen and (max-width: 999px) {
@@ -154,7 +161,7 @@ img {
   margin-left: 4px;
 }
 .author {
-  padding: 2px 0 25px 0;
+  padding: 10px 0 35px 0;
 }
 .footer-class {
   text-align: center;
