@@ -176,6 +176,14 @@ img {
 .img-padding {
   Padding: 15px 0 15px 0;
 }
+#armor {
+  display: block;
+  width: 150px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
 
 
 
