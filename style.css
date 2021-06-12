@@ -218,6 +218,22 @@ img {
 .text-left-align {
   text-align: left;
 }
+.modal-content {
+  object-fit: contain;
+}
+.modal-body {
+  padding: 0;
+}
+.modal-body img {
+  padding: 0;
+}
+
+
+
+
+
+
+
 
 
 
