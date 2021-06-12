@@ -215,6 +215,9 @@ img {
 .text-spacing {
   padding: 20px 0 20px 0;
 }
+.text-left-align {
+  text-align: left;
+}
 
 
 
