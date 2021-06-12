@@ -1,7 +1,11 @@
 a {
   text-decoration: none;
   color: black;
+  font-family: Helvetica, 'Helvetica Neue', Arial, 'Lucida Grande', sans-serif;
+  font-weight: 300;
+  font-style: normal;
 }
+
 img {
   padding-bottom: 20px;
 }
@@ -12,10 +16,11 @@ img {
     max-width: 150px;
 }
 .navtext a {
-  font-family: Lucida Grande !important;
+  font-family: Helvetica, 'Helvetica Neue', Arial, 'Lucida Grande', sans-serif;
   font-size: 20px !important;
   text-decoration: none;
   color: rgb(0, 0, 0);
+  font-weight: 300;
 }
 .carousel-item {
   background: rgb(255, 255, 255);
@@ -29,6 +34,8 @@ img {
   text-align: center;
   padding-top: 20px;
   margin: 0;
+  font-family: Helvetica, 'Helvetica Neue', Arial, 'Lucida Grande', sans-serif;
+  font-weight: 300;
 }
 .blockquote-extra-line {
   text-align: center;
@@ -185,14 +192,19 @@ img {
 }
 .link-heading {
   text-align: center;
-  font-size: 30px;
+  font-size: 20px;
   padding-bottom: 0px;
+  text-transform: uppercase;
 }
 #ride-dreams {
   padding-bottom: 40px;
 }
 #perhaps {
   padding-top: 30px;
+}
+.navbar-brand {
+  font-family: Helvetica, 'Helvetica Neue', Arial, 'Lucida Grande', sans-serif;
+  text-transform: uppercase;
 }
 
 
