@@ -164,8 +164,15 @@ img {
   padding: 0;
 }
 .modal-body img {
-  padding: 0;
+  margin: 0 0 0 10px;
 }
+.modal-title {
+  display: none;
+}
+.modal-footer {
+  display: none;
+}
+
 
 
 
